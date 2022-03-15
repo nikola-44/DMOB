@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cook_Eat</string>
+    <string name="favoris">Favoris</string>
+    <string name="accueil">Accueil</string>
+    <string name="recherche">Recherche</string>
+    <string name="ajouter_recette">Ajouter recette</string>
+    <string name="mes_recettes">Mes recettes</string>
+    <string name="compte">Compte</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="se_connecter">Se connecter</string>
+</resources>

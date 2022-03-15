@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    android:background="@color/purple_200"-->
+<!--    app:popupTheme="@style/ChangeTextColor"-->
+<!--    >-->
+        <item
+            android:id="@+id/action_accueil"
+            android:orderInCategory="100"
+            android:title="@string/accueil"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_recherche"
+            android:orderInCategory="100"
+            android:title="@string/recherche"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_ajouterrecette"
+            android:orderInCategory="100"
+            android:title="@string/ajouter_recette"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_mesrecettes"
+            android:orderInCategory="100"
+            android:title="@string/mes_recettes"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_favoris"
+            android:orderInCategory="100"
+            android:title="@string/favoris"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_comtpe"
+            android:orderInCategory="100"
+            android:title="@string/compte"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_sinscrire"
+            android:orderInCategory="100"
+            android:title="@string/s_inscrire"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_seconnecter"
+            android:orderInCategory="100"
+            android:title="@string/se_connecter"
+            app:showAsAction="never" />
+</menu>
